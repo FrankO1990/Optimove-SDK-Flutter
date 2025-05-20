@@ -32,6 +32,7 @@ android {
     defaultConfig {
         minSdkVersion 21
     }
+    namespace 'com.optimove.flutter'
 }
 dependencies {
     api 'com.optimove.android:optimove-android:7.+'
